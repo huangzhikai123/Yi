@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yi</string>
+    <string name="login">login</string>
+    <string name="cancel">cancel</string>
+</resources>
